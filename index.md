@@ -1,4 +1,4 @@
-##luochen 
+##罗晨傻不傻
 
 You can use the [editor on GitHub](https://github.com/Minsk13000/min/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
